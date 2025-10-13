@@ -1,0 +1,95 @@
+### Site Settings ###
+title               : Susmita Mondal Sristi
+description         : >-
+                      <b>Prospective Graduate Student</b> <br/>
+                      Research Assistant <br/>
+                      Dept of Computer Science and Engineering <br/>
+                      Chittagong University of Engineering & Technology (CUET) <br/>
+                      🌟 <br/>
+                      <b>AI Researcher </b> <br/>
+                      <b>Peer Reviewer </b>
+baseurl             : ""                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : smsristi                 # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote _projects)
+remote_theme        : yousinix/portfolYOU
+open_new_tab        : false                   # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/projects/professional.md
+  - pages/projects/hobby.md
+  - pages/projects/coursework.md
+
+
+### Author Info ###
+author:
+  name              : Susmita Mondal Sristi
+  image             : assets/img/main.jpg
+  email             : sm@smsristi.com
+  scholar           : user=7-HbnJMAAAAJ&hl=en
+  github            : SMSristi
+  linkedin          : susmita-mondal-sristi
+  stackoverflow     : 31634154
+  # medium            : dasajoy
+  #  behance           : your_username
+  # dribbble          : your_username
+  #  facebook          : your_username
+  # gitlab            : your_username
+  # instagram         : your_username
+  # kaggle            : your_username
+  # soundcloud        : your_username
+  # spotify           : your_username
+  # tumblr            : your_username.tumblr.com
+  # twitch            : your_username
+  # twitter           : ajoydas079
+  # vimeo             : your_username
+  # youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+### Disqus ###
+#disqus: your-short-name-disqus                          # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: G-3BD4D1PDK3
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - .idea/workspace.xml
+  - "*.log"
+  - README.md
