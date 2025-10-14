@@ -22,6 +22,8 @@ I am a Graduate Research Assistant with hands-on experience in **Generative AI**
 - Computer Vision
 - Natural Language Processing
 - Big Data
+- Human-Computer Interaction (HCI)
+- Software Engineering
 <br/>
 
 ### Experience
