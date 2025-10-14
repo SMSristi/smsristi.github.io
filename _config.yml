@@ -33,12 +33,11 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Susmita Mondal Sristi
   image             : assets/img/main.jpg
-  email             : sm@smsristi.com
+  email             : u1804062@student.cuet.ac.bd
   scholar           : user=7-HbnJMAAAAJ&hl=en
   github            : SMSristi
   linkedin          : susmita-mondal-sristi
   stackoverflow     : 31634154
-  # medium            : dasajoy
   #  behance           : your_username
   # dribbble          : your_username
   #  facebook          : your_username
@@ -49,7 +48,6 @@ author:
   # spotify           : your_username
   # tumblr            : your_username.tumblr.com
   # twitch            : your_username
-  # twitter           : ajoydas079
   # vimeo             : your_username
   # youtube           : your_channel_name
 
