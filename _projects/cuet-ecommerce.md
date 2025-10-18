@@ -5,7 +5,7 @@ tools: [JavaScript, CSS, PHP, Blade]
 image: ../assets/img/projects/cuet-ecommerce-preview.jpg
 description: >
   Fully dynamic multivendor eCommerce web platform supporting multiple sellers, real-time product listings, and order management. Developed in JavaScript, CSS, PHP, and Blade.
-external_url: https://github.com/SMSristi/cuet-ecommerce
+external_url: 
 ---
 
 ### **{{page.name}}**
@@ -29,7 +29,7 @@ A dynamic, scalable, multivendor eCommerce platform suitable for marketplace sta
    href="https://github.com/SMSristi/cuet-ecommerce"
    style="background:#f5f6f8;color:#24292f;border-radius:6px;padding:12px 32px;font-weight:600;text-decoration:none;font-size:1.1rem;display:inline-block;" target="_blank" rel="noopener">View Source Code on GitHub</a>
 
-#### Screenshots
+<!-- #### Screenshots
 <div style="display:flex; gap:24px; justify-content:center; align-items:flex-start;">
   <div style="text-align:center;">
     <img src="/assets/img/projects/cuet-ecommerce-preview.jpg" alt="Main Shop Screenshot" style="max-width:260px; border-radius:8px;">
@@ -43,4 +43,4 @@ A dynamic, scalable, multivendor eCommerce platform suitable for marketplace sta
     <img src="/assets/img/projects/cuet-ecommerce-admin.jpg" alt="Admin Dashboard Screenshot" style="max-width:220px; border-radius:8px;">
     <div style="font-weight:600; margin-top:8px;">Admin Dashboard</div>
   </div>
-</div>
+</div> -->
