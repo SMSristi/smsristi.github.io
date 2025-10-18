@@ -25,9 +25,9 @@ A dynamic, scalable, multivendor eCommerce platform suitable for marketplace sta
 - PHP and Blade for backend/templates
 
 **Source Code:**  
-<a class="github-button"
-   href="https://github.com/SMSristi/cuet-ecommerce"
-   style="background:#f5f6f8;color:#24292f;border-radius:6px;padding:12px 32px;font-weight:600;text-decoration:none;font-size:1.1rem;display:inline-block;" target="_blank" rel="noopener">View Source Code on GitHub</a>
+<a class="github-button" href="https://github.com/SMSristi/cuet-ecommerce" data-size="large" aria-label="View Source Code on GitHub">
+  View Source Code on GitHub
+</a>
 
 <!-- #### Screenshots
 <div style="display:flex; gap:24px; justify-content:center; align-items:flex-start;">
